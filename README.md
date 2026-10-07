@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mohamed Arshad Khan
 
-<!--
-**ArshadKhanM/ArshadKhanM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (Cyber Security) student at Saveetha University, Tamil Nadu, India
+Aspiring SOC Analyst | Expected graduation: 2029
 
-Here are some ideas to get you started:
+## What I'm learning now
+- [Linux command line]
+- [Networking fundamentals]
+- [Wazuh home lab]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal
+Become a fresher SOC Analyst by 2029 with hands-on proof of work.
+
+## Contact
+- LinkedIn: [www.linkedin.com/in/mohamed-arshad-khan-464221398]
+- Email: [mohamedarshadkhan26gmail.com]
